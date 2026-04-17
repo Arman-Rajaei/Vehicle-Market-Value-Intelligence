@@ -146,3 +146,7 @@ brands drive valuations upward.
     ├── fig3_residuals.png
     └── fig4_feature_weights.png
 ```
+---
+## 🧑‍💻 Author
+
+**Arman Rajaei**
